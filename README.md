@@ -1,4 +1,4 @@
-#  React Native Tof-do App
+#  React Native To-do App
 
 ##  Getting Started
 
